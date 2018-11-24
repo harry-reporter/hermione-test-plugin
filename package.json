@@ -1,0 +1,17 @@
+{
+  "name": "hermione-test-plugin",
+  "version": "1.0.0",
+  "description": "test plugin for hermione",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry-reporter/hermione-test-plugin.git"
+  },
+
+  "contributors": [],
+  "license": "Apache-2.0"
+}
